@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/caricia-de-sol/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Caricia de sol](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caricia-de-sol/) |
+| **Get License** | [License this song: Caricia de sol](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caricia-de-sol/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Your touch is like a Caricia de sol
+> Burning through my skin, I lose control
+> Night falls and I just want you more and more
+> This flame between us, let it explode
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
