@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/caricia-de-sol/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Caricia de sol](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caricia-de-sol/) |
+| **Get License** | [Music Rights & Licensing for Caricia de sol](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caricia-de-sol/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `640b0cf73bfb16f0d74e269061a558f5078454c71275c744673a77e79e4e8dd0` |
 | **Timestamp** | June 23, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
